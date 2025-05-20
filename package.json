@@ -1,0 +1,24 @@
+{
+  "name": "session-based-authentication",
+  "version": "1.0.0",
+  "description": "This is an Express Session repository",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishwarij98/Session-Based-Authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishwarij98/Session-Based-Authentication/issues"
+  },
+  "homepage": "https://github.com/ishwarij98/Session-Based-Authentication#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
